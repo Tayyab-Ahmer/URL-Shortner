@@ -20,3 +20,4 @@ export class UrlShortnerController {
         return res.redirect(url.longUrl);
     }
 }
+    
